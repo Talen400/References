@@ -7,14 +7,21 @@ This repository contains a curated collection of programming and computer scienc
 ## 📂 Directory Structure
 
 ```
-├── books
-│   ├── C
-│   ├── algorithms
-│       └── math_heavy
+References/
+├── books/
+│ ├── algorithms/
+│ ├── programming_c_cpp/
+│ ├── cybersecurity/
+│ ├── linux/
+│ ├── networking_os/
+│ └── misc/
 ├── container
 ├── LICENSE
 └── README.md
 ```
+
+- PDF files are organized by topic under the `books/` folder.
+- The `misc/` folder contains unclassified or miscellaneous files.
 
 ---
 
@@ -24,7 +31,7 @@ This repository contains a curated collection of programming and computer scienc
 
    ```bash
    git clone https://github.com/Talen400/References.git
-   ```
+
 
 2. **Browse PDFs**:
 
